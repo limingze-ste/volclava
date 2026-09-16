@@ -1,0 +1,34 @@
+lsbatch/daemons/sbd.job.c
+  s_ab945d4a15fe97::t_4a2ef0dbaadb1e 4989-4991,4993-4997
+  s_ab945d4a15fe97::t_826de189a21e94 4803-4806,4808-4809
+  s_ab945d4a15fe97::t_feb903a90d863c 4872-4885
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "90fed3114ee840359f843764e31fc2e3906e5854",
+  "prompts": {},
+  "sessions": {
+    "s_ab945d4a15fe97": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a9549db065e36de7588e486",
+        "model": "DeepSeek-V4-Pro-Official__max"
+      },
+      "human_author": "limingze.jiayou <limingze.jiayou@bytedance.com>",
+      "custom_attributes": {
+        "runtime_client": "trae-tob-git-ai",
+        "session_id": "6a9549db065e36de7588e486",
+        "operation_id": "6aaa4ef77b858d0284658157",
+        "tool_type": "agent",
+        "edit_kind": "file_edit",
+        "external_session_id": "6a9549db065e36de7588e486",
+        "client_type": "ide",
+        "tool_use_id": "6aaa4ef77b858d0284658157",
+        "tool_id": "Edit",
+        "dedupe_key": "6a9549db065e36de7588e486:6aaa4ef77b858d0284658157:afterEdit:8b11dd55",
+        "source_scene": "unknown"
+      }
+    }
+  }
+}
