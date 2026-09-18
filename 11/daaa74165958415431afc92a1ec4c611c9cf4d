@@ -1,0 +1,37 @@
+lsbatch/lib/lsb.modify.c
+  s_ab945d4a15fe97::t_92632020214886 103-105
+lsbatch/lib/lsb.sub.c
+  s_ab945d4a15fe97::t_0ec2f9505db158 195-235
+  s_ab945d4a15fe97::t_b9587688576d1b 319-320
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "11daaa74165958415431afc92a1ec4c611c9cf4d",
+  "prompts": {},
+  "sessions": {
+    "s_ab945d4a15fe97": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a9549db065e36de7588e486",
+        "model": "DeepSeek-V4-Pro-Official__max"
+      },
+      "human_author": "limingze.jiayou <limingze.jiayou@bytedance.com>",
+      "custom_attributes": {
+        "external_session_id": "6a9549db065e36de7588e486",
+        "runtime_client": "trae-tob-git-ai",
+        "tool_use_id": "6aace5a37b858d02846586b1",
+        "tool_name": "RunCommand",
+        "source_scene": "agent",
+        "checkpoint_content_bytes": "203160",
+        "display_model_name": "DeepSeek-V4-Pro 正式版",
+        "included_file_count": "4",
+        "operation_id": "6aace5a37b858d02846586b1",
+        "session_id": "6a9549db065e36de7588e486",
+        "original_file_count": "4",
+        "edit_kind": "bash",
+        "client_type": "ide"
+      }
+    }
+  }
+}
