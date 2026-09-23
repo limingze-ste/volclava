@@ -1,0 +1,35 @@
+lsbatch/daemons/sbd.job.c
+  s_ab945d4a15fe97::t_abbdcaad02b592 5073,5089-5094
+  s_ab945d4a15fe97::t_0b04ab1879720a 5095
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "2d8b3dde1ec74fcaf3f4a047a534d757b6a044e9",
+  "prompts": {},
+  "sessions": {
+    "s_ab945d4a15fe97": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a9549db065e36de7588e486",
+        "model": "DeepSeek-V4-Pro-Official__max"
+      },
+      "human_author": "limingze.jiayou <limingze.jiayou@bytedance.com>",
+      "custom_attributes": {
+        "tool_use_id": "6ab395597b858d0284658de9",
+        "operation_id": "6ab395597b858d0284658de9",
+        "runtime_client": "trae-tob-git-ai",
+        "display_model_name": "DeepSeek-V4-Pro 正式版",
+        "included_file_count": "4",
+        "edit_kind": "bash",
+        "session_id": "6a9549db065e36de7588e486",
+        "original_file_count": "4",
+        "checkpoint_content_bytes": "182408",
+        "tool_name": "Shell",
+        "source_scene": "agent",
+        "client_type": "ide",
+        "external_session_id": "6a9549db065e36de7588e486"
+      }
+    }
+  }
+}
