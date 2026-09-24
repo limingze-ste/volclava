@@ -1,0 +1,90 @@
+lsbatch/daemons/sbd.file.c
+  s_ab945d4a15fe97::t_a8731e78b2fc46 613-615
+lsbatch/man5/lsb.params.5
+  s_ab945d4a15fe97::t_56ac2970e1264e 504-507
+  s_ab945d4a15fe97::t_be809abfc4e03b 511-517
+  s_ab945d4a15fe97::t_da24defa839cea 496-498
+  s_ab945d4a15fe97::t_461a3e03d3b0e7 490-494
+  s_ab945d4a15fe97::t_65a263994feeda 476-480,482-483
+  s_ab945d4a15fe97::t_a62c944010bdf0 495,503
+  s_ab945d4a15fe97::t_f7b6615bf9d32c 499-500
+  s_ab945d4a15fe97::t_2d7a553dbff501 501-502
+  s_ab945d4a15fe97::t_35db4713a10c89 508
+lsbatch/daemons/sbd.job.c
+  s_ab945d4a15fe97::t_51659987043401 4915-4916
+  s_ab945d4a15fe97::t_9c235e17cbfde3 4851-4858
+  s_ab945d4a15fe97::t_b4483b5f7cabb6 4927
+  s_ab945d4a15fe97::t_aa6e3e617f4b02 5574-5583
+  s_ab945d4a15fe97::t_13e3e2f1c16a82 5406-5408,5617-5619
+  s_ab945d4a15fe97::t_9be440c0f4e6cd 5008-5009
+  s_ab945d4a15fe97::t_8d043b16bd787f 4834-4836,4895,4914
+  s_ab945d4a15fe97::t_0b2558408dc6fc 5018-5020
+  s_ab945d4a15fe97::t_a394744f15f391 4819-4821
+  s_ab945d4a15fe97::t_36d97ff2e33d6f 4838-4844
+  s_ab945d4a15fe97::t_5d28f48e3f5993 4904
+  s_ab945d4a15fe97::t_23390afe912fe1 4951-4953
+  s_ab945d4a15fe97::t_00b5d17f3fa333 5011
+  s_ab945d4a15fe97::t_1cdee644bca8d1 5434,5439-5447,5449-5457,5459-5467
+  s_ab945d4a15fe97::t_08ba84cc7054de 5468-5474
+  s_ab945d4a15fe97::t_02a73e045fb75d 4860-4862
+  s_ab945d4a15fe97::t_13702bd8502695 5352-5362
+  s_ab945d4a15fe97::t_ad3412d48b73d3 4906-4909
+  s_ab945d4a15fe97::t_dbce55a9c2b387 5085-5094,5103-5104,5150-5151
+  s_ab945d4a15fe97::t_040f629444d931 4918-4924
+  s_ab945d4a15fe97::t_fc5d1da0661a97 4884-4886
+  s_ab945d4a15fe97::t_18d13206579e75 4825,4829,4833,4837,4845,4847,4850,4859,4863,4876,4882-4883,4893,4897,4903,4905,4910,4913,4917,4925-4926,4950,4990,5007,5010,5017,5026-5084,5095-5102,5105-5109,5115-5149,5152-5165,5168-5185,5188,5192-5193,5207-5214,5236-5277,5280,5285,5389,5391,5401,5409,5600,5602,5612
+  s_ab945d4a15fe97::t_802c76ad6bb260 4877-4881
+  s_ab945d4a15fe97::t_e6d98d03101495 4846
+  s_ab945d4a15fe97::t_c9c49c6ad516bb 5012
+  s_ab945d4a15fe97::t_2d2afca69be71d 4817,4864-4875
+  s_ab945d4a15fe97::t_6e5cffb2061662 5013-5016,5400,5611
+  s_ab945d4a15fe97::t_ac4174872efb76 5110-5114
+  s_ab945d4a15fe97::t_1dd062c5a41eee 4822-4824
+  s_ab945d4a15fe97::t_079ddf534e3b52 4848-4849
+  s_ab945d4a15fe97::t_26c30f024232b8 4911-4912
+  s_ab945d4a15fe97::t_00a9477736c87d 4989,5379,5590
+  s_ab945d4a15fe97::t_6039b17473932b 4896
+  s_ab945d4a15fe97::t_1faa6718bd2186 4991-5006
+  s_ab945d4a15fe97::t_ee40a9c5d5cb03 4830-4832
+  s_ab945d4a15fe97::t_7c4ca44699de1c 4898-4902,5298,5486
+  s_ab945d4a15fe97::t_4b510d497ed546 4814-4816
+  s_ab945d4a15fe97::t_4cf097436f7614 4818
+  s_ab945d4a15fe97::t_9d0d070ce6803d 4887-4892
+  s_ab945d4a15fe97::t_2896f57ecb06fe 4894
+  s_ab945d4a15fe97::t_c8702ec12895a5 5380-5382,5386-5388
+  s_ab945d4a15fe97::t_8b7a4d95508509 5390
+  s_ab945d4a15fe97::t_afa340d842ebf2 5392-5394,5397-5399
+  s_ab945d4a15fe97::t_d26fbc62e386c2 5404-5405
+  s_ab945d4a15fe97::t_18d4f8baab173c 5591-5593,5597-5599
+  s_ab945d4a15fe97::t_c268422c1f3750 5601
+  s_ab945d4a15fe97::t_37a88d0bb39db3 5603-5605,5608-5610
+  s_ab945d4a15fe97::t_abe6d96830f622 5614-5616
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "71e3236889cd8742f38296562a75c5a992491a3b",
+  "prompts": {},
+  "sessions": {
+    "s_ab945d4a15fe97": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a9549db065e36de7588e486",
+        "model": "DeepSeek-V4-Pro-Official__max"
+      },
+      "human_author": "limingze.jiayou <limingze.jiayou@bytedance.com>",
+      "custom_attributes": {
+        "tool_use_id": "6ab4d69a7b858d0284658f7d",
+        "session_id": "6a9549db065e36de7588e486",
+        "external_session_id": "6a9549db065e36de7588e486",
+        "operation_id": "6ab4d69a7b858d0284658f7d",
+        "runtime_client": "trae-tob-git-ai",
+        "tool_name": "Edit",
+        "edit_kind": "file_edit",
+        "source_scene": "agent",
+        "client_type": "ide",
+        "display_model_name": "DeepSeek-V4-Pro 正式版"
+      }
+    }
+  }
+}
