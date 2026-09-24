@@ -1,0 +1,57 @@
+lsbatch/man5/lsb.params.5
+  s_ab945d4a15fe97::t_a62c944010bdf0 495
+  s_ab945d4a15fe97::t_be809abfc4e03b 503-509
+  s_ab945d4a15fe97::t_461a3e03d3b0e7 490-494
+  s_ab945d4a15fe97::t_65a263994feeda 476-480,482-483
+  s_ab945d4a15fe97::t_bba2bcde776639 496-498
+lsbatch/daemons/sbd.file.c
+  s_ab945d4a15fe97::t_a8731e78b2fc46 613-615
+lsbatch/daemons/sbd.job.c
+  s_ab945d4a15fe97::t_aa6e3e617f4b02 5460-5466,5468-5470,5472-5473,5475-5477
+  s_ab945d4a15fe97::t_1cdee644bca8d1 5336,5341-5349,5351-5359,5361-5363
+  s_ab945d4a15fe97::t_dbce55a9c2b387 5004-5013,5022-5023,5069-5070
+  s_ab945d4a15fe97::t_c9c49c6ad516bb 4931
+  s_ab945d4a15fe97::t_18d13206579e75 4825,4829,4833,4837,4845,4869,4909,4926,4929,4936,4945-5003,5014-5021,5024-5028,5034-5068,5071-5084,5087-5104,5107,5111-5112,5126-5133,5155-5196,5199,5204
+  s_ab945d4a15fe97::t_13702bd8502695 5268-5286
+  s_ab945d4a15fe97::t_1cee2527c7f862 4822-4824
+  s_ab945d4a15fe97::t_b75ec3ba70af78 4830-4832
+  s_ab945d4a15fe97::t_2bf8f593716f65 4834-4836
+  s_ab945d4a15fe97::t_2c61fbe0bbf0b3 4838-4840,4842-4844
+  s_ab945d4a15fe97::t_d503db549c5d43 4846
+  s_ab945d4a15fe97::t_fd0ee86578a853 4870-4872
+  s_ab945d4a15fe97::t_08701b8f6996f8 4908
+  s_ab945d4a15fe97::t_652e1146ac4938 4910-4912,4923-4925
+  s_ab945d4a15fe97::t_827cbe0c8c2c50 4927-4928
+  s_ab945d4a15fe97::t_fb04ff28eaede7 4930
+  s_ab945d4a15fe97::t_3c531e1ad9ef0f 4932-4935
+  s_ab945d4a15fe97::t_1847919f839231 4937-4939
+  s_ab945d4a15fe97::t_bb7242b9f22579 5029-5033
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.2",
+  "base_commit_sha": "50309adacde9cca721a07552b3d1ef846b22f8e0",
+  "prompts": {},
+  "sessions": {
+    "s_ab945d4a15fe97": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a9549db065e36de7588e486",
+        "model": "DeepSeek-V4-Pro-Official__max"
+      },
+      "human_author": "limingze.jiayou <limingze.jiayou@bytedance.com>",
+      "custom_attributes": {
+        "operation_id": "6ab4d69a7b858d0284658f7d",
+        "tool_use_id": "6ab4d69a7b858d0284658f7d",
+        "tool_name": "Edit",
+        "display_model_name": "DeepSeek-V4-Pro 正式版",
+        "external_session_id": "6a9549db065e36de7588e486",
+        "edit_kind": "file_edit",
+        "runtime_client": "trae-tob-git-ai",
+        "session_id": "6a9549db065e36de7588e486",
+        "client_type": "ide",
+        "source_scene": "agent"
+      }
+    }
+  }
+}
